@@ -1,2 +1,2 @@
 # python
-python project
+seaborn project
