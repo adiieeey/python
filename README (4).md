@@ -55,24 +55,6 @@ jupyter notebook seaborn_qstns_8.ipynb
 
 Once Jupyter opens in your browser, navigate to the notebook and run the cells to see the visualizations.
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](../../issues) if you would like to contribute.
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
